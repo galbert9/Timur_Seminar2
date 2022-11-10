@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/bin/Debug/net6.0/Ex_4
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/bin/Debug/net6.0/Ex_4.deps.json
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/bin/Debug/net6.0/Ex_4.runtimeconfig.json
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/bin/Debug/net6.0/Ex_4.dll
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/bin/Debug/net6.0/Ex_4.pdb
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/Ex_4.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/Ex_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/Ex_4.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/Ex_4.AssemblyInfo.cs
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/Ex_4.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/Ex_4.dll
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/refint/Ex_4.dll
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/Ex_4.pdb
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/Ex_4.genruntimeconfig.cache
+/Users/gennadj/Desktop/C# Семинар_2/Ex_4/obj/Debug/net6.0/ref/Ex_4.dll
