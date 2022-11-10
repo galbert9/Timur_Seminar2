@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/bin/Debug/net6.0/Ex_2
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/bin/Debug/net6.0/Ex_2.deps.json
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/bin/Debug/net6.0/Ex_2.runtimeconfig.json
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/bin/Debug/net6.0/Ex_2.dll
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/bin/Debug/net6.0/Ex_2.pdb
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/Ex_2.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/Ex_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/Ex_2.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/Ex_2.AssemblyInfo.cs
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/Ex_2.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/Ex_2.dll
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/refint/Ex_2.dll
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/Ex_2.pdb
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/Ex_2.genruntimeconfig.cache
+/Users/gennadj/Desktop/C# Семинар_2/Ex_2/obj/Debug/net6.0/ref/Ex_2.dll
